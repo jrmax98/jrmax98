@@ -3,5 +3,5 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>Microsoft Azure</b>
-  - [Creating a Virtual Machine]
+  - [Creating a Virtual Machine](https://github.com/jrmax98/CreateVm)
 
